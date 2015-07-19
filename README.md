@@ -1,2 +1,3 @@
 # AngularLoginSystem
-Technologies includeAngularJS, Bootstrap, jQuery, HTML5, CSS3, JavaScript
+Responsive Web Design & Single Page Application. 
+Technologies include AngularJS, Bootstrap,Media Queries, jQuery, HTML5, CSS3, JavaScript
